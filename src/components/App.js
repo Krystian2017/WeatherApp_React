@@ -72,7 +72,7 @@ class App extends Component {
             . You can find the code on{" "}
             <a
               className="App-link"
-              href="https://github.com/Krystian2017/WeatherApp-React"
+              href="https://github.com/Krystian2017/WeatherApp_React"
             >
               my GitHub account.
             </a>
